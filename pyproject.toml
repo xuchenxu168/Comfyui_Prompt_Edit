@@ -1,6 +1,6 @@
 [project]
 name = "Comfyui_Prompt_Edit"
-description = "Enhanced Qwen3-VL integration for ComfyUI with direct image and video support"
+description = "Prompt Edit is a custom node designed for ComfyUI that allows you to pause, edit text prompts, and then continue during workflow execution. This is extremely useful for scenarios where prompts need to be dynamically adjusted during the generation process."
 version = "2.0.0"
 license = {file = "LICENSE"}
 dependencies = []
