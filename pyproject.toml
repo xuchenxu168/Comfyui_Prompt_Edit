@@ -1,17 +1,17 @@
 [project]
-name = "ComfyUI-Qwen3-VL"
+name = "Comfyui_Prompt_Edit"
 description = "Enhanced Qwen3-VL integration for ComfyUI with direct image and video support"
 version = "2.0.0"
 license = {file = "LICENSE"}
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/xuchenxu168/ComfyUI_Qwen3-VL"
-"Bug Tracker" = "https://github.com/xuchenxu168/ComfyUI_Qwen3-VL/issues"
+Repository = "https://github.com/xuchenxu168/Comfyui_Prompt_Edit"
+"Bug Tracker" = "https://github.com/xuchenxu168/Comfyui_Prompt_Edit/issues"
 #  Used by Comfy Registry https://registry.comfy.org
 
 [tool.comfy]
 PublisherId = "xuchenxu168"
-DisplayName = "ComfyUI-Qwen3-VL"
+DisplayName = "Comfyui_Prompt_Edit"
 Icon = ""
 includes = []
