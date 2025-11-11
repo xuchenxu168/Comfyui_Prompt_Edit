@@ -1,0 +1,17 @@
+[project]
+name = "ComfyUI-Qwen3-VL"
+description = "Enhanced Qwen3-VL integration for ComfyUI with direct image and video support"
+version = "2.0.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/xuchenxu168/ComfyUI_Qwen3-VL"
+"Bug Tracker" = "https://github.com/xuchenxu168/ComfyUI_Qwen3-VL/issues"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "xuchenxu168"
+DisplayName = "ComfyUI-Qwen3-VL"
+Icon = ""
+includes = []
